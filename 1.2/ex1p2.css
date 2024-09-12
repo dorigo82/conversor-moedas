@@ -1,0 +1,21 @@
+div {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: auto;
+    margin-top: 30px;
+    
+}
+body {
+    background-color: bisque;
+}
+
+.oi {
+    background-color: pink;
+}
+img {
+    width: 300px;
+    height: auto;
+}
